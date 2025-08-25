@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielpul101/danielpul101/main/assets/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/danielpul101/danielpul101/main/assets/banner.png" alt="Banner" style="max-width: 100%; height: auto;" />
 </p>
 
 # Hi, I’m Daniel Pulikkottil
