@@ -1,18 +1,18 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/danielpul101/danielpul101/main/assets/banner.png" alt="Banner" />
 </p>
 
-# Hi, I’m Daniel Pulikkottil 👋
+# Hi, I’m Daniel Pulikkottil
 
-🎓 I’m a **Computer Science student at UC Irvine**, passionate about **Machine Learning** and **Artificial Intelligence**.  
+I’m a **Computer Science student at UC Irvine**, passionate about **Machine Learning** and **Artificial Intelligence**.  
 I enjoy building intelligent systems and exploring data-driven solutions alongside continuously enhancing my skills in modern technologies.
 
 ---
 
 ##  Featured Projects
 
-Here are some projects I'm particularly proud of:
+Here are some projects I've worked on:
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
