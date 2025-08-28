@@ -17,7 +17,7 @@ Here are some projects I've worked on:
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
 | [**ML-Projects**](https://github.com/danielpul101/ML-Projects) | A collection of machine learning projects made with Google Colab, from diabetes prediction to emotion detection. | Python, Matplot, SkLearn, Pandas |
-| [**BlackJack_Game**](https://github.com/danielpul101/BlackJack_Game) | A basic Blackjack game built in Python to practice logic and unit testing. | Python, pytest |
+| [**Terminal BlackJack**](https://github.com/danielpul101/BlackJack_Game) | A basic Blackjack game built in Python to practice logic and unit testing. | Python, pytest |
 | [**OpenAI-Voice-Response**](https://github.com/danielpul101/OpenAI-Voice-Response) | A web-based AI assistant that role-plays as a British detective, complete with voice synthesis via ElevenLabs. | Python, Flask, ElevenLabs API |
 | [**ArithmeticFormatter**](https://github.com/danielpul101/ArithmeticFormatter) | Formats basic arithmetic problems (addition/subtraction) into vertically aligned exercises. | Python |
 
